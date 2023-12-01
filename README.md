@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **chamithzdilshann@gmail.com**
 
-- ⚡ Fun fact **I like to play and create games and like to keep my shape in check.**
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -65,7 +63,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/chamith-dilshan-b43917293/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/_Chamith_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
