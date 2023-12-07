@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Web site development]()**
 
-- 🌱 I’m currently learning **C++_and_Unreal_Engine**
+- 🌱 I’m currently learning **C#_and_MongoDB**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
