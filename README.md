@@ -2,11 +2,14 @@
 
 # 🏯 **DOJO OF CODE** 🏯
 ## 🥋 **Sensei Chamith Dilshan** - Master of Digital Arts 🥋
-### ⚔️ Software Engineer @ [Your company] | 🌸 [Your location]
+### ⚔️ Software Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+JP&size=28&duration=4000&pause=1500&color=C9A961&center=true&vCenter=true&multiline=true&width=800&height=120&lines=道+Path+of+the+Code+Warrior;Discipline+%E2%80%A2+Precision+%E2%80%A2+Commit;If you know how to break, then you will learn how to make..." alt="Dojo Mantra" />
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F3460&secondColor=16213E&height=120&section=header&text=⛩️&fontSize=60&fontColor=C9A961&animation=twinkling"/>
+
+<!-- ===================== Matrix Rain Effect ===================== -->
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix Rain Effect" width="100%" style="filter: brightness(0.8);" />
 
 </div>
 
@@ -41,7 +44,8 @@
 <td align="center">
 
 ### 📜 **Weapon Mastery**
-<img src="https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=js,java,python,django,springboot,fastapi,mysql,postgresql,flutter,git,vscode,github,postman,discord)](https://skillicons.dev)&theme=dark&perline=6" />
+<br/>
+<img src="https://skillicons.dev/icons?i=js,java,python,django,springboot,fastapi,mysql,postgresql,flutter,git,vscode,github,postman&theme=dark&perline=6" alt="skill icons" />
 
 </td>
 </tr>
@@ -153,6 +157,11 @@ A real-time collaborative platform connecting engineers, technicians, and custom
 
 <div align="center">
 
+<div align="center">
+🐍 NEURAL PATHWAY VISUALIZATION
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</div>
+
 ## 🌸 **MEDITATION CHAMBER** 🌸
 ### *Daily Practice & Focus*
 
@@ -200,3 +209,4 @@ A real-time collaborative platform connecting engineers, technicians, and custom
 **"The code that is not tested is not code at all"** - Ancient Dojo Wisdom 🥋
 
 </div>
+
