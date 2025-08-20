@@ -54,9 +54,9 @@
 ### 🥋 **Belt Progression System**
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamith-Dilshan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F3460&title_color=C9A961&text_color=C9A961&icon_color=E17055" width="500"/>
 
+
 ### ⚡ **Combat Analytics**
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chamith-Dilshan&theme=tokyo_night" width="650"/>
-
 </div>
 
 ---
@@ -103,10 +103,10 @@ A real-time collaborative platform connecting engineers, technicians, and custom
 <td align="center" width="30%" style="border: 2px solid #5F8A8B; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0F3460, #16213E);">
 
 ### ⚔️ **Mission Gamma**
-**[Your project3Name]**  
-*Difficulty: 🏯 Sensei*
+**[Comming Soon]**  
+*Difficulty: Hardcore*
 
-[Your project3Description]
+[Working On It :)]
 
 **🥋 Techniques Used:**  
 `[Your project3Tech]`
@@ -209,4 +209,5 @@ A real-time collaborative platform connecting engineers, technicians, and custom
 **"The code that is not tested is not code at all"** - Ancient Dojo Wisdom 🥋
 
 </div>
+
 
