@@ -1,75 +1,202 @@
-<a href="#"><img width="100%" height="auto" src="https://tenor.com/view/sunset-pixel-gif-25750801.gif" height="175px"/></a>
+<div align="center">
 
-<h1 align="center">W e l c o m e <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Chamith</h1>
-<h3 align="center">I'm a software engineering student at NSBM Green University, Sri Lanka. Passionate about technology, game development, and problem-solving.</h3>
+# 🏯 **DOJO OF CODE** 🏯
+## 🥋 **Sensei Chamith Dilshan** - Master of Digital Arts 🥋
+### ⚔️ Software Engineer @ [Your company] | 🌸 [Your location]
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+JP&size=28&duration=4000&pause=1500&color=C9A961&center=true&vCenter=true&multiline=true&width=800&height=120&lines=道+Path+of+the+Code+Warrior;Discipline+%E2%80%A2+Precision+%E2%80%A2+Commit;If you know how to break, then you will learn how to make..." alt="Dojo Mantra" />
 
-## 🙋‍♂️ About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F3460&secondColor=16213E&height=120&section=header&text=⛩️&fontSize=60&fontColor=C9A961&animation=twinkling"/>
 
-- 🔭 I’m currently working on **[Web site development]()**
+</div>
 
-- 🌱 I’m currently learning **C#_and_MongoDB**
+---
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+<div align="center">
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]()**
+## 🧘‍♂️ **DEVELOPER MANTRA** 🧘‍♂️
+*"Turning chaos into purpose."*
 
-- 📫 How to reach me **chamithzdilshann@gmail.com**
+### 🌅 **Current Path**
+```yaml
+道 Way: Open to new Opportunities.
+修行 Training: Machine Learning, React
+段 Rank: 2 Years Dan
+流派 School: Let's make a difference...
+```
 
-## 🚀 Languages and Tools:
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Chamith-Dilshan&theme=tokyonight&hide_border=true&background=0F3460&ring=C9A961&fire=E17055&currStreakLabel=C9A961&sideLabels=C9A961" width="500"/>
 
-<p align="left"> 
-    <a href="https://www.w3schools.com/c/index.php" target="_blank"> <img src="https://img.icons8.com/color/48/null/c-programming.png"/> </a>
-    <a href="https://www.w3schools.com/cpp/default.asp" target="_blank"> <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/> </a>
-    <a href="https://www.w3schools.com/cs/index.php" target="_blank"> <img src="https://img.icons8.com/fluency/48/null/c-sharp-logo.png"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>    
-    <a href="https://www.unrealengine.com/en-US" target="_blank"> <img src="https://img.icons8.com/nolan/64/unreal-engine.png"/> </a>
-</p>
+</div>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+---
 
-<p align="center">
-    <a href="https://github.com/Chamith-Dilshan/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Chamith-Dilshan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Chamith-Dilshan&theme=onedark_duo&hide_border=true&stroke=0000&background=240224"/>
-    </a>
-</p>
+<div align="center">
 
-## 📊 My Github Stats
-<br/>
-<p align="center">
-    <a href="https://github.com/Chamith-Dilshan/github-readme-stats"><img alt="Chamith-Dilshan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Chamith-Dilshan&show_icons=true&count_private=true&theme=onedark&hide_border=true&bg_color=240224" /></a>
-    <br>
-    <a href="https://github.com/Chamith-Dilshan/github-readme-stats"><img alt="Chamith-Dilshan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamith-Dilshan&langs_count=8&count_private=true&layout=compact&theme=onedark&hide_border=true&bg_color=240224" /></a>
-</p>
-    
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+## ⚔️ **SKILL SCROLLS** ⚔️
+### *Ancient Techniques Mastered*
 
+<table align="center">
+<tr>
+<td align="center">
 
-<br/>
-<br/>
+### 📜 **Weapon Mastery**
+<img src="https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=js,java,python,django,springboot,fastapi,mysql,postgresql,flutter,git,vscode,github,postman,discord)](https://skillicons.dev)&theme=dark&perline=6" />
 
-[![Chamith-Dilshan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Chamith-Dilshan&theme=monokai)](https://github.com/Chamith-Dilshan/github-readme-activity-graph)
+</td>
+</tr>
+</table>
 
-<br/>
-<br/>
+### 🥋 **Belt Progression System**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamith-Dilshan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F3460&title_color=C9A961&text_color=C9A961&icon_color=E17055" width="500"/>
 
-## Connect with me:
-<p align="left">
+### ⚡ **Combat Analytics**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chamith-Dilshan&theme=tokyo_night" width="650"/>
 
-<a href = "https://www.linkedin.com/in/chamith-dilshan-b43917293/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/_Chamith_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+</div>
 
-</p>
+---
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Chamith-Dilshan">
+<div align="center">
+
+## 🪨 **PROJECT COMBAT MISSIONS** 🪨
+### *Legendary Battles Fought & Won*
+
+<table align="center" style="border-collapse: separate; border-spacing: 20px;">
+<tr>
+<td align="center" width="30%" style="border: 2px solid #C9A961; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0F3460, #16213E);">
+
+### ⚔️ **Mission Alpha**
+**AI_Code_Assistant**  
+*Difficulty: 🗡️ Hardcore*
+
+A AI coding companion that helps you access relevant information from the web as well as your own experiences. It makes finding past experiences and new, updated insights easy, aligning them to make your life easier.
+
+**🥋 Techniques Used:**  
+`Python, React, PostgreSQL, ChromaDB, LangGraph, Ollama`
+
+<a href="[Your project1Link]">
+<img src="https://img.shields.io/badge/Enter%20Dojo-C9A961?style=for-the-badge&logo=torii-gate&logoColor=0F3460"/>
 </a>
-<a href="https://github.com/Chamith-dilshan?tab=followers"><img src="https://img.shields.io/github/followers/Chamith-Dilshan?label=Followers&style=social" alt="GitHub Badge"></a>
+
+</td>
+<td align="center" width="30%" style="border: 2px solid #E17055; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0F3460, #16213E);">
+
+### ⚔️ **Mission Beta**
+**Engineering_Mobile_App**  
+*Difficulty: 🥋 Master*
+
+A real-time collaborative platform connecting engineers, technicians, and customers, streamlining repairs, warranty claims, complaints, requests, and technician tracking — making service management smarter, faster, and effortless While giving the option of using the app offline and online.
+
+**🥋 Techniques Used:**  
+`Java Spring Boot, Flutter, MySQL`
+
+<a href="[Your project2Link]">
+<img src="https://img.shields.io/badge/Enter%20Dojo-E17055?style=for-the-badge&logo=torii-gate&logoColor=white"/>
+</a>
+
+</td>
+<td align="center" width="30%" style="border: 2px solid #5F8A8B; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0F3460, #16213E);">
+
+### ⚔️ **Mission Gamma**
+**[Your project3Name]**  
+*Difficulty: 🏯 Sensei*
+
+[Your project3Description]
+
+**🥋 Techniques Used:**  
+`[Your project3Tech]`
+
+<a href="[Your project3Link]">
+<img src="https://img.shields.io/badge/Enter%20Dojo-5F8A8B?style=for-the-badge&logo=torii-gate&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 **HALL OF HONOR** 🏆
+### *Sacred Achievements*
+
+<table align="center">
+<tr>
+<td align="center">
+
+🥇 **Developed and deployed a mobile and web application that scaled to serve 100,000+ active users with 99.9% uptime.**
+
+</td>
+<td align="center">
+
+🥈 **Hands-on experience ranging from simple websites and mobile apps to complex ERP systems.**
+
+</td>
+<td align="center">
+
+🥉 **Managed a cross-functional team of developers, designers, and testers to deliver projects ahead of schedule and under budget, while maintaining low stress levels and high team morale.**
+
+</td>
+</tr>
+</table>
+
+### 📊 **Dojo Training Progress**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chamith-Dilshan&bg_color=0F3460&color=C9A961&line=E17055&point=C9A961&area=true&hide_border=true&custom_title=Path%20of%20Continuous%20Improvement" width="700"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌸 **MEDITATION CHAMBER** 🌸
+### *Daily Practice & Focus*
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+JP&size=24&duration=5000&pause=2000&color=C9A961&center=true&vCenter=true&width=700&lines=Focus+on+the+Present+Commit;Empty+Your+Mind%2C+Fill+Your+Repository;The+Way+of+Clean+Code" alt="Meditation" />
+
+### 🧘‍♂️ **Current Meditation Focus**
+```yaml
+今日の修行 (Today's Training): Machine Learning, React
+心 (Mind): Clear and Focused  
+体 (Body): Ready for Coding Marathons
+魂 (Spirit): Driven by Clean Architecture
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏯 **TEMPLE GATES** 🏯
+### *Connect with the Sensei*
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+JP&size=22&duration=4500&pause=1000&color=E17055&center=true&vCenter=true&width=650&lines=Ready+to+Begin+Your+Training%3F;The+Dojo+Doors+Are+Always+Open;師父+is+Ready+to+Guide+You" alt="Contact Invitation" />
+
+<p align="center">
+<a href="https://linkedin.com/in/CHamith Dilhan">
+<img src="https://img.shields.io/badge/🧘‍♂️%20LinkedIn%20Dojo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=C9A961"/>
+</a>
+<a href="https://twitter.com/chamit-dilshan">
+<img src="https://img.shields.io/badge/🐦%20Twitter%20Scrolls-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=E17055"/>
+</a>
+<a href="[Your portfolio]">
+<img src="https://img.shields.io/badge/⛩️%20Sacred%20Portfolio-C9A961?style=for-the-badge&logo=safari&logoColor=0F3460"/>
+</a>
+<a href="mailto:chamith@gmail.com">
+<img src="https://img.shields.io/badge/📮%20Temple%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=5F8A8B"/>
+</a>
+</p>
+
+### 🧘‍♂️ **Temple Visitor Counter**
+<img src="https://komarev.com/ghpvc/?username=Chamith-Dilshan&label=Enlightened%20Souls&color=C9A961&style=for-the-badge&logo=temple" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F3460&secondColor=16213E&height=120&section=footer&text=⛩️&fontSize=60&fontColor=C9A961&animation=fadeIn"/>
+
+**"The code that is not tested is not code at all"** - Ancient Dojo Wisdom 🥋
+
+</div>
