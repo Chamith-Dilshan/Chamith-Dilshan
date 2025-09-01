@@ -45,7 +45,7 @@
 
 ### 📜 **Weapon Mastery**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,java,python,django,springboot,fastapi,mysql,postgresql,flutter,git,vscode,github,postman&theme=dark&perline=6" alt="skill icons" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,threejs,react,vite,dart,flutter,java,spring,py,fastapi,django,mysql,postgresql,git,npm,postman&theme=dark&perline=6" alt="skill icons" />
 
 </td>
 </tr>
@@ -209,5 +209,6 @@ A real-time collaborative platform connecting engineers, technicians, and custom
 **"The code that is not tested is not code at all"** - Ancient Dojo Wisdom 🥋
 
 </div>
+
 
 
