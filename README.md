@@ -1,215 +1,427 @@
+<p align="center">
+  <img
+    src="https://i.pinimg.com/1200x/2a/b7/d4/2ab7d413230af01e379488186e03a2fe.jpg"
+    width="100%"
+    alt="Hero Banner"
+  >
+</p>
+
+<p align="center">
+  <img
+    src="images/ascii-art-name-1.png"
+    width="800"
+    alt="CHAMITH DILSHAN"
+  >
+</p>
+
+<h2 align="center">
+  <b>#FullStackAIEngineer</b>
+</h2>
+
+<p align="center">
+  Helping people solve real problems with AI.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Chamith-Dilshan">
+    <img
+      src="https://img.shields.io/github/followers/Chamith-Dilshan?style=for-the-badge&label=FOLLOWERS&color=8B5CF6&labelColor=1A1033"
+      alt="GitHub Followers"
+    >
+  </a>
+  <img
+    src="https://komarev.com/ghpvc/?username=Chamith-Dilshan&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"
+    alt="Profile Views"
+  >
+</p>
+
+<br>
+
+<!-- ===================================================== -->
+
+<!-- SYSTEM STATUS -->
+
+<!-- ===================================================== -->
+
+
+<h2 align="center">▌ SYSTEM STATUS</h2>
+
 <div align="center">
 
-# 🏯 **DOJO OF CODE** 🏯
-## 🥋 **Sensei Chamith Dilshan** - Master of Digital Arts 🥋
-### ⚔️ Software Engineer
+<table align="center" width="600">
 
+  <!-- BOOT -->
+  <tr>
+    <td colspan="3" align="left">
+      <img
+        src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=16&duration=10000&pause=1000&color=8B5CF6&vCenter=true&width=400&height=25&lines=%3E+BOOTING+OS..."
+        alt="Booting OS"
+      >
+    </td>
+  </tr>
 
+  <!-- LOADING -->
+  <tr>
+    <td colspan="3" align="left">
+      <img
+        src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=16&duration=10000&pause=1000&color=8B5CF6&vCenter=true&width=400&height=25&lines=%3E+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25"
+        alt="Boot Progress"
+      >
+    </td>
+  </tr>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F3460&secondColor=16213E&height=120&section=header&text=⛩️&fontSize=60&fontColor=C9A961&animation=twinkling"/>
+  <!-- STATUS -->
+  <tr>
+    <td align="right"><b>STATUS</b></td>
+    <td>&nbsp;:&nbsp;</td>
+    <td align="left">
+      <img
+        src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=16&duration=4000&pause=1000&color=8B5CF6&width=120&height=25&lines=ONLINE"
+        alt="ONLINE"
+      >
+    </td>
+  </tr>
 
-<!-- ===================== Matrix Rain Effect ===================== -->
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix Rain Effect" width="100%" style="filter: brightness(0.8);" />
+  <!-- ROLE -->
+  <tr>
+    <td align="right"><b>ROLE</b></td>
+    <td>&nbsp;:&nbsp;</td>
+    <td align="left">
+      <img
+        src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=16&duration=4000&pause=1000&color=8B5CF6&width=180&height=25&lines=AI+ENGINEER"
+        alt="AI ENGINEER"
+      >
+    </td>
+  </tr>
+
+  <!-- SPECIALTY -->
+  <tr>
+    <td align="right"><b>SPECIALTY</b></td>
+    <td>&nbsp;:&nbsp;</td>
+    <td align="left">
+      <img
+        src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=16&duration=4000&pause=1000&color=8B5CF6&width=280&height=25&lines=FULL+STACK+%2B+AI+SYSTEMS"
+        alt="FULL STACK + AI SYSTEMS"
+      >
+    </td>
+  </tr>
+
+</table>
 
 </div>
 
----
+<br>
+
+<!-- ===================================================== -->
+
+<!-- PLAYER PROFILE -->
+
+<!-- ===================================================== -->
 
 <div align="center">
-
-## 🧘‍♂️ **DEVELOPER MANTRA** 🧘‍♂️
-*"Turning chaos into purpose."*
-
-### 🌅 **Current Path**
-```yaml
-道 Way: Open to new Opportunities.
-修行 Training: Machine Learning, React
-段 Rank: 2 Years Dan
-流派 School: Let's make a difference...
-```
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Chamith-Dilshan&theme=tokyonight&hide_border=true&background=0F3460&ring=C9A961&fire=E17055&currStreakLabel=C9A961&sideLabels=C9A961" width="500"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ⚔️ **SKILL SCROLLS** ⚔️
-### *Ancient Techniques Mastered*
+<h2>▌ PLAYER PROFILE</h2>
 
 <table align="center">
 <tr>
-<td align="center">
 
-### 📜 **Weapon Mastery**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,threejs,react,vite,dart,flutter,java,spring,py,fastapi,django,mysql,postgresql,docker,git,npm,postman&theme=dark&perline=6" alt="skill icons" />
+<td align="left" width="55%">
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <font color="#8B5CF">
+    <b>開発</b>
+  </font>
+  <code> / DEVELOPMENT</code>
+</p>
 
-### 🥋 **Belt Progression System**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamith-Dilshan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F3460&title_color=C9A961&text_color=C9A961&icon_color=E17055" width="500"/>
+<p align="center">
+  <b>FULL STACK × AI ENGINEER</b>
+</p>
 
+<p align="center">
+  I build software from idea to execution -<br/>
+  combining full - stack engineering, backend systems, <br/>
+  and AI to turn problems into useful products.<br/>
+</p>
 
-### ⚡ **Combat Analytics**
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chamith-Dilshan&theme=tokyo_night" width="650"/>
-</div>
+<br>
 
----
+<p align="center">
+  <font color="#8B5CF"><b>創造</b></font>
+  <code> / WHAT I BUILD</code>
+</p>
 
-<div align="center">
+<p align="center">
+  Full-stack applications<br>
+  Backend & API systems<br>
+  AI-powered products<br>
+  Intelligent agents & automation<br>
+  Developer tools & experiments
+</p>
 
-## 🪨 **PROJECT COMBAT MISSIONS** 🪨
-### *Legendary Battles Fought & Won*
+<br>
 
-<table align="center" style="border-collapse: separate; border-spacing: 20px;">
-<tr>
-<td align="center" width="30%" style="border: 2px solid #C9A961; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0F3460, #16213E);">
+<p align="center">
+  <font color="#8B5CF"><b>進化</b></font>
+  <code> / ENGINEERING LOOP</code>
+</p>
 
-### ⚔️ **Mission Alpha**
-**AI_Code_Assistant**  
-*Difficulty: 🗡️ Hardcore*
-
-A AI coding companion that helps you access relevant information from the web as well as your own experiences. It makes finding past experiences and new, updated insights easy, aligning them to make your life easier.
-
-**🥋 Techniques Used:**  
-`Python, React, PostgreSQL, ChromaDB, LangGraph, Ollama`
-
-<a href="[Your project1Link]">
-<img src="https://img.shields.io/badge/Enter%20Dojo-C9A961?style=for-the-badge&logo=torii-gate&logoColor=0F3460"/>
-</a>
-
-</td>
-<td align="center" width="30%" style="border: 2px solid #E17055; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0F3460, #16213E);">
-
-### ⚔️ **Mission Beta**
-**Engineering_Mobile_App**  
-*Difficulty: 🥋 Master*
-
-A real-time collaborative platform connecting engineers, technicians, and customers, streamlining repairs, warranty claims, complaints, requests, and technician tracking — making service management smarter, faster, and effortless While giving the option of using the app offline and online.
-
-**🥋 Techniques Used:**  
-`Java Spring Boot, Flutter, MySQL`
-
-<a href="[Your project2Link]">
-<img src="https://img.shields.io/badge/Enter%20Dojo-E17055?style=for-the-badge&logo=torii-gate&logoColor=white"/>
-</a>
+<p align="center">
+  <b>
+    BUILD
+    <font color="#8B5CF">→</font>
+    SHIP
+    <font color="#8B5CF">→</font>
+    LEARN
+    <font color="#8B5CF">→</font>
+    REPEAT
+  </b>
+</p>
 
 </td>
-<td align="center" width="30%" style="border: 2px solid #5F8A8B; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0F3460, #16213E);">
 
-### ⚔️ **Mission Gamma**
-**[Comming Soon]**  
-*Difficulty: Hardcore*
 
-[Working On It :)]
-
-**🥋 Techniques Used:**  
-`[Your project3Tech]`
-
-<a href="[Your project3Link]">
-<img src="https://img.shields.io/badge/Enter%20Dojo-5F8A8B?style=for-the-badge&logo=torii-gate&logoColor=white"/>
-</a>
-
+<!-- VISUAL -->
+<td align="center" width="45%">
+<img
+  	src="images/cyberpunk-geisha.webp"
+  	width="100%"
+  	alt="Cyberpunk City"
+	>
 </td>
+
 </tr>
 </table>
 
 </div>
 
----
+<br>
+
+<!-- ===================================================== -->
+
+<!-- TECH STACK -->
+
+<!-- ===================================================== -->
+
+<h2 align="center">
+  ▌ TECH ARSENAL
+</h2>
+
+<h3 align="center">《 LANGUAGES 》</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-8B5CF6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Java-8B5CF6?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-8B5CF6?style=for-the-badge&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-8B5CF6?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-8B5CF6?style=for-the-badge&logo=css3&logoColor=white">
+
+</p>
+
+<h3 align="center">《 FRONTEND 》</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Next.js-8B5CF6?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/React-8B5CF6?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Redux-8B5CF6?style=for-the-badge&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/TanStack_Query-8B5CF6?style=for-the-badge&logo=reactquery&logoColor=white">
+<img src="https://img.shields.io/badge/TailwindCSS-8B5CF6?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/Three.js-8B5CF6?style=for-the-badge&logo=three.js&logoColor=white">
+<img src="https://img.shields.io/badge/WebGL-8B5CF6?style=for-the-badge&logo=webgl&logoColor=white">
+
+</p>
+
+<h3 align="center">《 BACKEND 》</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/FastAPI-8B5CF6?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-8B5CF6?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Gunicorn-8B5CF6?style=for-the-badge&logo=gunicorn&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-8B5CF6?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
+<img src="https://img.shields.io/badge/OpenAPI-8B5CF6?style=for-the-badge&logo=openapiinitiative&logoColor=white">
+
+</p>
+
+<h3 align="center">《 DATABASES 》</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PostgreSQL-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-8B5CF6?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-8B5CF6?style=for-the-badge&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Neo4j-8B5CF6?style=for-the-badge&logo=neo4j&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-8B5CF6?style=for-the-badge&logo=supabase&logoColor=white">
+<img src="https://img.shields.io/badge/Prisma-8B5CF6?style=for-the-badge&logo=prisma&logoColor=white">
+
+</p>
+
+<h3 align="center">《 AI / DATA 》</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangChain-8B5CF6?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/LangGraph-8B5CF6?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-8B5CF6?style=for-the-badge&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-8B5CF6?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-8B5CF6?style=for-the-badge&logo=pandas&logoColor=white">
+
+</p>
+
+<h3 align="center">《 DESKTOP / MOBILE / GRAPHICS 》</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Flutter-8B5CF6?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Tauri-8B5CF6?style=for-the-badge&logo=tauri&logoColor=white">
+<img src="https://img.shields.io/badge/OpenGL-8B5CF6?style=for-the-badge&logo=opengl&logoColor=white">
+<img src="https://img.shields.io/badge/FFmpeg-8B5CF6?style=for-the-badge&logo=ffmpeg&logoColor=white">
+<img src="https://img.shields.io/badge/GSAP-8B5CF6?style=for-the-badge&logo=greensock&logoColor=white">
+
+</p>
+
+<h3 align="center">《 DEVOPS / CLOUD / TOOLING 》</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Docker-8B5CF6?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-8B5CF6?style=for-the-badge&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Jenkins-8B5CF6?style=for-the-badge&logo=jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/Cloudflare-8B5CF6?style=for-the-badge&logo=cloudflare&logoColor=white">
+<img src="https://img.shields.io/badge/Playwright-8B5CF6?style=for-the-badge&logo=playwright&logoColor=white">
+<img src="https://img.shields.io/badge/Sentry-8B5CF6?style=for-the-badge&logo=sentry&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-8B5CF6?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/ESLint-8B5CF6?style=for-the-badge&logo=eslint&logoColor=white">
+<img src="https://img.shields.io/badge/Prettier-8B5CF6?style=for-the-badge&logo=prettier&logoColor=white">
+
+</p>
+
+<br>
+
+<!-- ===================================================== -->
+
+<!-- GITHUB STATS -->
+
+<!-- ===================================================== -->
+
+<h2 align="center">
+  ▌ GITHUB STATS
+</h2>
+
+<p align="center">
+	<img
+	src="https://github-readme-stats.shion.dev/api/top-langs/?username=Chamith-Dilshan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=8B5CF6&text_color=C084FC&bg_color=0D0B14"
+	height="180"
+	alt="Top Languages">
+
+</p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=Chamith-Dilshan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=8B5CF6&icon_color=A855F7&text_color=C084FC&bg_color=0D0B14"
+    height="180"
+    alt="GitHub Stats"
+  >
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Chamith-Dilshan&theme=dark&hide_border=true&ring=8B5CF6&fire=A855F7&currStreakLabel=8B5CF6&sideLabels=C084FC&background=0D0B14"
+    width="700"
+    alt="GitHub Streak"
+  >
+</p>
 
 <div align="center">
-
-## 🏆 **HALL OF HONOR** 🏆
-### *Sacred Achievements*
-
-<table align="center">
-<tr>
-<td align="center">
-
-🥇 **Developed and deployed a mobile and web application that scaled to serve 100,000+ active users with 99.9% uptime.**
-
-</td>
-<td align="center">
-
-🥈 **Hands-on experience ranging from simple websites and mobile apps to complex ERP systems.**
-
-</td>
-<td align="center">
-
-🥉 **Managed a cross-functional team of developers, designers, and testers to deliver projects ahead of schedule and under budget, while maintaining low stress levels and high team morale.**
-
-</td>
-</tr>
-</table>
-
-### 📊 **Dojo Training Progress**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chamith-Dilshan&bg_color=0F3460&color=C9A961&line=E17055&point=C9A961&area=true&hide_border=true&custom_title=Path%20of%20Continuous%20Improvement" width="700"/>
-
-</div>
-
----
-
-<div align="center">
-
-<div align="center">
-🐍 NEURAL PATHWAY VISUALIZATION
+**🪭 NEURAL PATHWAY VISUALIZATION**
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </div>
 
-## 🌸 **MEDITATION CHAMBER** 🌸
-### *Daily Practice & Focus*
+[//]: # (<div align="center">)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+JP&size=24&duration=5000&pause=2000&color=C9A961&center=true&vCenter=true&width=700&lines=Focus+on+the+Present+Commit;Empty+Your+Mind%2C+Fill+Your+Repository;The+Way+of+Clean+Code" alt="Meditation" />
+[//]: # ()
+[//]: # (**🪭 NEURAL PATHWAY VISUALIZATION**)
 
-### 🧘‍♂️ **Current Meditation Focus**
-```yaml
-今日の修行 (Today's Training): Machine Learning, React
-心 (Mind): Clear and Focused  
-体 (Body): Ready for Coding Marathons
-魂 (Spirit): Driven by Clean Architecture
-```
+[//]: # ()
+[//]: # (<img src="https://raw.githubusercontent.com/Chamith-Dilshan/Chamith-Dilshan/output/github-contribution-grid-snake.svg" alt="Neural pathway visualization">)
 
-</div>
+[//]: # ()
+[//]: # (</div>)
 
----
+<br>
 
-<div align="center">
+<!-- ===================================================== -->
 
-## 🏯 **TEMPLE GATES** 🏯
-### *Connect with the Sensei*
+<!-- CONNECT -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+JP&size=22&duration=4500&pause=1000&color=E17055&center=true&vCenter=true&width=650&lines=Ready+to+Begin+Your+Training%3F;The+Dojo+Doors+Are+Always+Open;師父+is+Ready+to+Guide+You" alt="Contact Invitation" />
+<!-- ===================================================== -->
+
+<h2 align="center">
+  ▌ CONNECT
+</h2>
 
 <p align="center">
-<a href="https://linkedin.com/in/CHamith Dilhan">
-<img src="https://img.shields.io/badge/🧘‍♂️%20LinkedIn%20Dojo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=C9A961"/>
+
+<a href="https://github.com/Chamith-Dilshan">
+  <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://twitter.com/chamit-dilshan">
-<img src="https://img.shields.io/badge/🐦%20Twitter%20Scrolls-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=E17055"/>
+
+<a href="https://www.linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="[Your portfolio]">
-<img src="https://img.shields.io/badge/⛩️%20Sacred%20Portfolio-C9A961?style=for-the-badge&logo=safari&logoColor=0F3460"/>
+
+<a href="https://www.solvexa.com">
+  <img src="https://img.shields.io/badge/Website-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
-<a href="mailto:chamith@gmail.com">
-<img src="https://img.shields.io/badge/📮%20Temple%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=5F8A8B"/>
+
+<a href="https://paypal.me/chamith.me">
+  <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=email&logoColor=white">
+</a>
+
+</p>
+
+<br>
+
+<h2 align="center">
+  ▌ Buy me a coffee
+</h2>
+
+<p align="center">
+<a href="https://paypal.me/chamith.me">
+  <img src="https://img.shields.io/badge/PayPal-8B5CF6?style=for-the-badge&logo=paypal&logoColor=white">
 </a>
 </p>
 
-### 🧘‍♂️ **Temple Visitor Counter**
-<img src="https://komarev.com/ghpvc/?username=Chamith-Dilshan&label=Enlightened%20Souls&color=C9A961&style=for-the-badge&logo=temple" />
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F3460&secondColor=16213E&height=120&section=footer&text=⛩️&fontSize=60&fontColor=C9A961&animation=fadeIn"/>
+<!-- ===================================================== -->
 
-**"The code that is not tested is not code at all"** - Ancient Dojo Wisdom 🥋
+<!-- FOOTER -->
 
-</div>
+<!-- ===================================================== -->
+
+<h3 align="center">
+  「 GIVE ME THE CODE, I CAN FIX THAT 」
+</h3>
+<p align="center">
+<img src="https://i.pinimg.com/1200x/46/7c/8f/467c8f340aae797841b3de6951fff0e0.jpg" width="900">
+</p>
+
+[//]: # (<img src="https://i.pinimg.com/originals/a1/1d/41/a11d416a30a7a0d4c75a51bdba5d6670.gif">)
+<p align="center">
+<img src="https://i.pinimg.com/736x/d4/b4/85/d4b4855523bd6e86ccc4b44f054ec036.jpg" width="900">
+</p>
 
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=true&text=%E5%89%B5%E9%80%A0++%E2%9C%A6+%E3%82%B3%E3%83%BC%E3%83%89++%E2%9C%A6++%E6%9C%AA%E6%9D%A5&textBg=false&fontColor=E9A6B8&fontSize=30&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&stroke=8B5CF&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60">
 
+[//]: # (創造 &#40;Sōzō&#41; → Creation / Creating)
 
+[//]: # (コード &#40;Kōdo&#41; → Code)
+
+[//]: # (未来 &#40;Mirai&#41; → Future)
