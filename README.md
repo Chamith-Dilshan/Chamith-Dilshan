@@ -338,7 +338,9 @@
 </p>
 
 <div align="center">
-**🪭 NEURAL PATHWAY VISUALIZATION**
+<h2 align="center">
+  🪭 NEURAL PATHWAY VISUALIZATION
+</h2>
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </div>
 
