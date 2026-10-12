@@ -394,7 +394,7 @@
 </h2>
 
 <p align="center">
-<a href="https://paypal.me/chamith.me">
+<a href="[https://paypal.me/chamith.me](https://www.paypal.com/donate/?hosted_button_id=9TBH85AD794VA)">
   <img src="https://img.shields.io/badge/PayPal-8B5CF6?style=for-the-badge&logo=paypal&logoColor=white">
 </a>
 </p>
